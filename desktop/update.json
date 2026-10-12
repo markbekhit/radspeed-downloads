@@ -1,0 +1,11 @@
+{
+  "version": "0.2.37",
+  "notes": "RadSpeed desktop 0.2.37",
+  "pub_date": "2026-10-12T04:38:48Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK092V0JhL2VTcmN4ZU5CeTJ6SFl6bGdsSkxObXBVUlEwcnlkMzJPVUd0dmxZNGVwTHVEcnJpT0FpWXVWaythUVhuRXh5V3dzYWxybGJwUTdaMklocDdERTNMSlJtaHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzc5OTI3CWZpbGU6UmFkU3BlZWRfMC4yLjM3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMzcKNGFWQ2xTMm1UNk95b3JXemN0aWdRRFd6RnlFeEhjMG8ydHpVMUwxeGZTSzJpS0g0MkFMbVBIb2t6S1dEcWFZV29sL3h5d2ROaTJoQUFPOVBZQ1h0Q3c9PQo=",
+      "url": "https://raw.githubusercontent.com/markbekhit/radspeed-downloads/main/desktop/RadSpeed_0.2.37_x64-setup.exe"
+    }
+  }
+}
